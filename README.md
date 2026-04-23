@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm TheUGultimatum</h1>
 
-<!--
-**TheUGultimatum/theugultimatum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+⚡ Web3 Node Runner | 🚀 Automation Builder | 🧠 Self-Taught Dev  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 Running & testing cutting-edge **crypto nodes**
+* ⚙️ Building **one-command automation scripts**
+* 🚀 Focused on **DePIN / Infra / Airdrop ecosystems**
+* 💻 Learning by doing — real-world execution over theory
+
+---
+
+## ⚡ What I Build
+
+* 🔥 One-command node installers (VPS ready)
+* 🧩 Automation scripts (Docker, CLI, infra)
+* 🧪 Testnet participation setups
+* 📦 Beginner → Pro node deployment guides
+
+---
+
+## 🚀 Featured Project
+
+### 🔥 Quip Node Auto Installer
+
+Run a Quip node in **one command**:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/TheUGultimatum/quip-node-for-vps/main/install.sh | sudo bash
+```
+
+✔️ Auto Docker install
+✔️ Auto config
+✔️ Live logs
+✔️ Beginner friendly
+
+👉 Repo: https://github.com/TheUGultimatum/quip-node-for-vps
+
+---
+
+## 🧰 Tech Stack
+
+* 🐳 Docker
+* 🐧 Linux / VPS
+* ⚙️ Bash Scripting
+* 🌐 Web3 Infra
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheUGultimatum&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUGultimatum&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect
+
+* 🐦 Twitter: https://x.com/YOUR_HANDLE
+* 💬 Discord: YOUR_HANDLE
+* 🌐 Portfolio: Coming Soon
+
+---
+
+## ⚡ Motto
+
+> Build. Break. Fix. Repeat. 🚀
