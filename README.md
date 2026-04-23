@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm TheUGultimatum</h1>
 
 <p align="center">
-⚡ Web3 Node Runner | 🚀 Automation Builder | 🧠 Self-Taught Dev  
+⚡ Web3 Node Runner | 🚀 Aspiring Crypto KOL | 🧠 Self-Taught Dev  
 </p>
 
 ---
@@ -63,8 +63,8 @@ curl -fsSL https://raw.githubusercontent.com/TheUGultimatum/quip-node-for-vps/ma
 
 ## 🔗 Connect
 
-* 🐦 Twitter: https://x.com/YOUR_HANDLE
-* 💬 Discord: YOUR_HANDLE
+* 🐦 Twitter: https://x.com/Usmaangani252
+* 💬 Discord: theugultimatum
 * 🌐 Portfolio: Coming Soon
 
 ---
