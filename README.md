@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theug&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/theug?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=TheUGultimatum&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/TheUGultimatum?label=Followers&style=social" />
 </p>
 
 ---
